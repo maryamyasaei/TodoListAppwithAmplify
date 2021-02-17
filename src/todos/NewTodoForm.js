@@ -24,7 +24,7 @@ const NewTodoForm = ({ todos, onCreatePressed }) => {
                     }
                 }}
                 className="new-todo-button">
-                Create Todo
+                Create Todo List
             </button>
         </div>
     );
